@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Krt-11
-- 👀 I’m interested in ... understanding what magic goes on the backstage of computer programming
-- 🌱 I’m currently learning ... how to keep up with so much there is
+- 👀 I’m interested in ... exploring and learning different aspects of modern technology
+- 🌱 I’m currently learning ... python and javascript for oop and website development
 - 💞️ I’m looking to collaborate on ... projects and learn through various opportunities and be in teams
-- 📫 How to reach me ... work in progress
-       (\n //it will be fixed soon)
 
 <!---
 Krt-11/Krt-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
